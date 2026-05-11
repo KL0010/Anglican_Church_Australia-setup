@@ -10,7 +10,7 @@ Run:
 
 Get-FileHash .\setup.zip -Algorithm SHA256
 
-Example output:
+Output:
 
 Algorithm : SHA256
 Hash      : 2A4D85014296F990FD8ED0FF3B480A107430C87DE7A07694EC3FA2590903631B
