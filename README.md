@@ -39,14 +39,3 @@ If the hashes match, the package integrity is verified.
    .\06-backup-local-state.ps1
    .\07-reset-local-app.ps1
    .\08-bootstrap-localhost.ps1
-
-### Running 08-bootstrap-localhost.ps1 creates a root folder with associated folders:
-C:\Apps
-└── ParishName
-    ├── Anglican_Church_Australia
-    ├── backups
-    ├── FastAPI
-    ├── publish
-    ├── scripts
-    ├── state
-    └── logs
