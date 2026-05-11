@@ -8,13 +8,13 @@ Open PowerShell in the folder containing the downloaded ZIP file.
 
 Run:
 
-Get-FileHash .\ChristChurchGeelong-Setup.zip -Algorithm SHA256
+Get-FileHash .\setup.zip -Algorithm SHA256
 
 Example output:
 
 Algorithm : SHA256
 Hash      : 2A4D85014296F990FD8ED0FF3B480A107430C87DE7A07694EC3FA2590903631B
-Path      : C:\Users\Administrator\Downloads\ChristChurchGeelong-Setup.zip
+Path      : C:\Users\Administrator\Downloads\setup.zip
 
 Compare the Hash value against the published SHA256 hash from GitHub.
 
