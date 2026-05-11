@@ -12,9 +12,9 @@ Get-FileHash .\setup.zip -Algorithm SHA256
 
 Output:
 
-Algorithm : SHA256
-Hash      : 2A4D85014296F990FD8ED0FF3B480A107430C87DE7A07694EC3FA2590903631B
-Path      : C:\Users\Administrator\Downloads\setup.zip
+Algorithm : SHA256 <br/>
+Hash      : 2A4D85014296F990FD8ED0FF3B480A107430C87DE7A07694EC3FA2590903631B  <br/>
+Path      : C:\Users\Administrator\Downloads\setup.zip  <br/>
 
 Compare the Hash value against the published SHA256 hash from GitHub.
 
